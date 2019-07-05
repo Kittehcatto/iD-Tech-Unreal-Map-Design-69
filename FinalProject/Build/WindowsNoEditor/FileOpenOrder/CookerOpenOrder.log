@@ -1,0 +1,934 @@
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Aim_Space_Hip.uasset" 1
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 2
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 3
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 4
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 5
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 6
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 7
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Death_2.uasset" 8
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Death_3.uasset" 9
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Death_Ironsights_1.uasset" 10
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Death_Ironsights_2.uasset" 11
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 12
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 13
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 14
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Hit_React_4.uasset" 15
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Idle_Pistol.uasset" 16
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 17
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 18
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Death_1.uasset" 19
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Death_2.uasset" 20
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Fire_1.uasset" 21
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Fire_2.uasset" 22
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Idle.uasset" 23
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 24
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 25
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Reload_Pistol.uasset" 26
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 27
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 28
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 29
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 30
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 31
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 32
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Stand_To_Prone.uasset" 33
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 34
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 35
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 36
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall.uasset" 37
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall_Inst2.uasset" 38
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_LightSculpture.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 41
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 42
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled3.uasset" 43
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled3_Normal.uasset" 44
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/RibbonSmoke1b_M.uasset" 45
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SquareSpark.uasset" 46
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/ThickSparkEdgy_M.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 48
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Noise_cloudsmed.uasset" 49
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Shocktorus.uasset" 50
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockwavedome.uasset" 51
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/RadialRamp_Mat.uasset" 52
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/RibbonSmoke1_M.uasset" 53
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Streamer1.uasset" 54
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/FireCore2.uasset" 55
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/RandomAngles.uasset" 56
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/RandomMirrorDisc.uasset" 57
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SineWaveWorldNormalMap.uasset" 58
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled2.uasset" 59
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled2_Normal.uasset" 60
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled4.uasset" 61
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled4_Normal.uasset" 62
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled5.uasset" 63
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled5_Normal.uasset" 64
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled6.uasset" 65
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SmokeTiled6_Normal.uasset" 66
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SphereRenderNormalsMap.uasset" 67
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/test1.uasset" 68
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/VF/Fireball1_VF32.uasset" 69
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 70
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 71
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 72
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 73
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 74
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 75
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Sequencer/Shot1.uasset" 76
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 77
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 78
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 79
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 80
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 81
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 82
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 83
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Collapse01.uasset" 84
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Collapse02.uasset" 85
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Explosion01.uasset" 86
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Explosion02.uasset" 87
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Fire01.uasset" 88
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 89
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Light01.uasset" 90
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Light01_Cue.uasset" 91
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Light02.uasset" 92
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Light02_Cue.uasset" 93
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Smoke01.uasset" 94
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 95
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Starter_Music01.uasset" 96
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 97
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 98
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Steam01.uasset" 99
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 100
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Burst_M.uasset" 101
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 102
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 103
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 104
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 106
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 107
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 108
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 109
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 110
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/P_Explosion.uasset" 111
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 112
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 113
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 114
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Bush_D.uasset" 115
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Bush_N.uasset" 116
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 117
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Bush.uasset" 118
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Glass.uasset" 119
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Door_M.uasset" 120
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Door_N.uasset" 121
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Door.uasset" 122
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Door.uasset" 123
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 124
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 125
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 126
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 127
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 128
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 129
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 130
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 131
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 132
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Rock.uasset" 133
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 134
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 135
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 136
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Shelf.uasset" 137
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 138
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Stairs.uasset" 139
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 140
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 141
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 142
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 143
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 144
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 145
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 146
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 147
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 148
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 149
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 150
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 151
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 152
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 153
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 154
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 155
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 156
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 157
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 158
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 159
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPersonRun.uasset" 160
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 161
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 162
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 163
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 164
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 165
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 166
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 167
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 168
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 169
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 170
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 171
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 172
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 173
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 174
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 175
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 176
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 177
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 178
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 179
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 180
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 181
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 182
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 183
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 184
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Materials/FakedCaustics.uasset" 185
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Textures/T_MicroWaves_N.uasset" 186
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Textures/T_OceanFoam_01.uasset" 187
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 188
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 189
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 190
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 191
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 192
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 193
+"../../../Engine/Content/BasicShapes/Cone.uasset" 194
+"../../../Engine/Content/BasicShapes/Cube.uasset" 195
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 196
+"../../../Engine/Content/BasicShapes/Plane.uasset" 197
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 198
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 199
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 200
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 201
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 202
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 203
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 204
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 205
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 206
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 207
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 208
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 209
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 210
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 211
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 212
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 213
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 214
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 215
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 216
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 217
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 218
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 219
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 220
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 221
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 222
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 223
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 224
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 225
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 226
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 227
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 228
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 229
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 230
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 231
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 232
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 233
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 234
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 235
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 236
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 237
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 238
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 239
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 240
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 241
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 242
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 243
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 244
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 245
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 246
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 247
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 248
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 249
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 250
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 251
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 252
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 253
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 254
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 255
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 256
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 257
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 258
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 259
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 260
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 261
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 262
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 264
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 265
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 267
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 268
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 269
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 270
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 271
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 272
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 273
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 274
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 275
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 277
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 278
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 279
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 280
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 281
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 282
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 283
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 284
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 285
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 286
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 287
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 288
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 289
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 290
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 291
+"../../../Engine/Content/EngineResources/Black.uasset" 292
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 293
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 294
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 295
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 296
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 297
+"../../../Engine/Content/EngineSounds/Master.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 300
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 301
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 302
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 303
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 321
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 322
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 323
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 324
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 331
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 333
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 334
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 335
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 336
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 337
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 338
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 342
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 343
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 344
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 345
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 351
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 352
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 353
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 354
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 355
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 356
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 357
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 358
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Death_1.uasset" 359
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 360
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 361
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 362
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 363
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 364
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 365
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 366
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 367
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 368
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 369
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 370
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 371
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 372
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 373
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AI/guno.uasset" 374
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 375
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 376
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Explodebase1Bot_2k.uasset" 377
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explodelowsmoke_Mat.uasset" 378
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/VF/Fireball1_VF16.uasset" 379
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explode2.uasset" 380
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Meshes/BaseMaterial.uasset" 381
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 382
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 383
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 384
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 385
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 386
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 387
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/smoothNormalSphere.uasset" 388
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/water_n.uasset" 389
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Distortion1.uasset" 390
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Explodebase1_2k.uasset" 391
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explodebase1_Mat.uasset" 392
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fireballs1_2K.uasset" 393
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/ExplodeFireball_Mat.uasset" 394
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/ShocktorusNoEdge.uasset" 395
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Smoke1c_2k.uasset" 396
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke3_M.uasset" 397
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockcracklepoles.uasset" 398
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Shocktorus_r.uasset" 399
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockwavetorus.uasset" 400
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Destruction1.uasset" 401
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Material_001.uasset" 402
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Sketchfab_2017_08_10_15_30_45_Cube.uasset" 403
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Statue_M.uasset" 404
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Statue_N.uasset" 405
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 406
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 407
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Statue.uasset" 408
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/KeyBlueprint.uasset" 409
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 410
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 411
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 412
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 413
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 414
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 415
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 416
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 417
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 418
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 419
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 420
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 421
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 422
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 423
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 424
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 425
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 426
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 427
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 428
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 429
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 430
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 431
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 432
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 433
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 434
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 435
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 436
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 437
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 438
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 439
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 440
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 441
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 442
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AI/Ai.uasset" 443
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 444
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 445
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 446
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 447
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 448
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 449
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 450
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 451
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 452
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 453
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 454
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 455
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 456
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 457
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 458
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Lake/Textures/T_MediumWaves_H.uasset" 459
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Lake/Textures/T_MediumWaves_N.uasset" 460
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 461
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Lake/Materials/M_LakeWater_01.uasset" 462
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 463
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Lake/Materials/M_LakeWater_01_Inst.uasset" 464
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 465
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 466
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 467
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 468
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 469
+"../../../Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset" 470
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 471
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 472
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Lake/Blueprint/BP_LakeWater.uasset" 473
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FinalLevel_sharedassets/Dirt_LayerInfo.uasset" 474
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FinalLevel_sharedassets/Grass_LayerInfo.uasset" 475
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FinalLevel_sharedassets/Orange_LayerInfo.uasset" 476
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FinalLevel_sharedassets/Rock_LayerInfo.uasset" 477
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Cinematic1.uasset" 478
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/cs_LittleLake_BuiltData.uasset" 479
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 480
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 481
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 482
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_D.uasset" 483
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Materials/LandscapeMaterial.uasset" 484
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 485
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/cs_LittleLake.umap" 486
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 487
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 488
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 489
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 490
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 491
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Hit_React_1.uasset" 492
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Hit_React_2.uasset" 493
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Hit_React_3.uasset" 494
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 495
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 496
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 497
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 498
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 499
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 500
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Showcase.umap" 501
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/RibbonTester_v3.uasset" 502
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/DefaultTextMaterialTranslucentUnlit.uasset" 503
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall_Inst.uasset" 504
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall_Inst_3.uasset" 505
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall_Inst_NamePlate.uasset" 506
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall_Inst_BaseFloor_Inst.uasset" 507
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/BP_DemoDisplay_Enum.uasset" 508
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_Base.uasset" 509
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_Base2.uasset" 510
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_Base_FlatWall.uasset" 511
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_BaseRoom.uasset" 512
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_NamePlate.uasset" 513
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/BP_DemoDisplay.uasset" 514
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Textures/T_UnrealEngineDecal.uasset" 515
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_Glass.uasset" 516
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Textures/T_RoomTiles_M.uasset" 517
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Textures/T_RoomTiles_N.uasset" 518
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoRoomTiles.uasset" 519
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoRoomTiles_Inst.uasset" 520
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Textures/T_Pattern_M.uasset" 521
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWallPattern.uasset" 522
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWallPattern_Inst.uasset" 523
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 524
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWallPattern_NoText.uasset" 525
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_Glass_Inst.uasset" 526
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/BP_DemoRoom_Enum.uasset" 527
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoDivider_1.uasset" 528
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoDivider_2.uasset" 529
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomBackWall.uasset" 530
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_DemoWall_MattPlastic.uasset" 531
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomBackWall2.uasset" 532
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_LightTube.uasset" 533
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_LightTube_Inst.uasset" 534
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomClamp.uasset" 535
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomClamp2.uasset" 536
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomL.uasset" 537
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomLTrim.uasset" 538
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomTrim.uasset" 539
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomTrim2.uasset" 540
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomTrimAdd.uasset" 541
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomU.uasset" 542
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomU2.uasset" 543
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_DemoRoomU_Hole.uasset" 544
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_URoom_Wall.uasset" 545
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Meshes/SM_URoom_Wall2.uasset" 546
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/BP_DemoRoom.uasset" 547
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/DefPawn.uasset" 548
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/PhysicsDemoPlayerController.uasset" 549
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/BluePrints/CE_Game.uasset" 550
+"../../../Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset" 551
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Textures/SupportInfo.uasset" 552
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/DemoRoom/Materials/M_Abatron.uasset" 553
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 554
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 555
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 556
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 557
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 558
+"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 559
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 560
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Burst1.uasset" 561
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Burst1.uasset" 562
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Burst1.uasset" 563
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Burst2.uasset" 564
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Burst2.uasset" 565
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Burst2.uasset" 566
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Distortion1.uasset" 567
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/water2N.uasset" 568
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Distortion1b.uasset" 569
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Distortion1b.uasset" 570
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Distortion2.uasset" 571
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockdome3.uasset" 572
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Distortion3D.uasset" 573
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/RandomNormal2.uasset" 574
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/DistortionSq.uasset" 575
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_DistortionSq.uasset" 576
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explode1.uasset" 577
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/FBLoop1_Mat.uasset" 578
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explode3.uasset" 579
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Explodebase1Side3_2K.uasset" 580
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive1_M.uasset" 581
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive1.uasset" 582
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Mushroom1Side1_2K.uasset" 583
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive10_M.uasset" 584
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive10.uasset" 585
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Mushroom1top_2K.uasset" 586
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive11_M.uasset" 587
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive11.uasset" 588
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Explodebase1Top_2K.uasset" 589
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive2_M.uasset" 590
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive2.uasset" 591
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/ExplosionPreset_Bot_2K.uasset" 592
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive3_M.uasset" 593
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive3.uasset" 594
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/ExplosionPreset_Side_2K.uasset" 595
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive4_M.uasset" 596
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive4.uasset" 597
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/ExplosionPreset_Top_2K.uasset" 598
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive5_M.uasset" 599
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive5.uasset" 600
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fireballs1SideB_2K.uasset" 601
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive6_M.uasset" 602
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive6.uasset" 603
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fireballs1Top_2K.uasset" 604
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive7_M.uasset" 605
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive7.uasset" 606
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Mushroom1bot_2K.uasset" 607
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive8_M.uasset" 608
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive8.uasset" 609
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Explosive9_M.uasset" 610
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Explosive9.uasset" 611
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire2a_2k.uasset" 612
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire1_M.uasset" 613
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire1.uasset" 614
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire2b_2k.uasset" 615
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire2_M.uasset" 616
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire2.uasset" 617
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire2c_2k.uasset" 618
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire3_M.uasset" 619
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire3.uasset" 620
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire2d_2k.uasset" 621
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire4_M.uasset" 622
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire4.uasset" 623
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire4a_2k.uasset" 624
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire5_M.uasset" 625
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire5.uasset" 626
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire4b_2k.uasset" 627
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire6_M.uasset" 628
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire6.uasset" 629
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire4c_2k.uasset" 630
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire7_M.uasset" 631
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire7.uasset" 632
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Fire4d_2k.uasset" 633
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Fire8_M.uasset" 634
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Fire8.uasset" 635
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/flares2.uasset" 636
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/flareshimmer1.uasset" 637
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_FlareShimmer1.uasset" 638
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_FlareShimmer2.uasset" 639
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockwavecrackle.uasset" 640
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_highimpact.uasset" 641
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Smoke2c_2K.uasset" 642
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke6_M.uasset" 643
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/SquareSpark2.uasset" 644
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/ThickSpark_M.uasset" 645
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockball3.uasset" 646
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion.uasset" 647
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion2.uasset" 648
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Smoke1a_2K.uasset" 649
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke1_M.uasset" 650
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion3.uasset" 651
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/RibbonSmoke1c_M.uasset" 652
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Smoke1b_2K.uasset" 653
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke2_M.uasset" 654
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion4.uasset" 655
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/burstflare1.uasset" 656
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/burstflare1_Mat.uasset" 657
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion5.uasset" 658
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion6.uasset" 659
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Smoke2a_2K.uasset" 660
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke4_M.uasset" 661
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockdome2.uasset" 662
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion7.uasset" 663
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_ImpactExplosion8.uasset" 664
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Jets1.uasset" 665
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Leaders.uasset" 666
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_LeadersRing.uasset" 667
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_RBExplode.uasset" 668
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave1.uasset" 669
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave10.uasset" 670
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/disc1.uasset" 671
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave11.uasset" 672
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockball1.uasset" 673
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave12.uasset" 674
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockball2.uasset" 675
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave13.uasset" 676
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave14.uasset" 677
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/brokenwave1.uasset" 678
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave2.uasset" 679
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/brokenwave2.uasset" 680
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave3.uasset" 681
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave4.uasset" 682
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/disc2.uasset" 683
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave5.uasset" 684
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockcracklepoles2.uasset" 685
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave6.uasset" 686
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockwavedomedn.uasset" 687
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave7.uasset" 688
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mesh/shockwavetoruscrackled.uasset" 689
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave8.uasset" 690
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_shockwave9.uasset" 691
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke1.uasset" 692
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke2.uasset" 693
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke3.uasset" 694
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke4.uasset" 695
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/Smoke2b_2K.uasset" 696
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke5_M.uasset" 697
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke5.uasset" 698
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke6.uasset" 699
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Textures/smokeblack1_2K.uasset" 700
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Mats/Smoke7_M.uasset" 701
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_Smoke7.uasset" 702
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Particles/P_SparksFlair.uasset" 703
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Explosions/Maps/Overview.umap" 704
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/AnimStarterPack/Prone_To_Stand.uasset" 705
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 706
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 707
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Geometry/Meshes/CubeMaterial.uasset" 708
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Geometry/Meshes/1M_Cube.uasset" 709
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Chair_M.uasset" 710
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Chair_N.uasset" 711
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 712
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Chair.uasset" 713
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Couch.uasset" 714
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 715
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 716
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 717
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_TableRound.uasset" 718
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 719
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 720
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 721
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 722
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 723
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 724
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 725
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 726
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 727
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 728
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 729
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 730
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 731
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 732
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 733
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 734
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 735
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 736
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 737
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 738
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 739
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 740
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 741
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 742
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 743
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 744
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 745
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 746
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 747
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 748
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 749
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 750
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 751
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Maps/Minimal_Default.umap" 752
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 753
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 754
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 755
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 756
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Water_N.uasset" 757
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 758
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 759
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/P_Fire.uasset" 760
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 761
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 762
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/P_Smoke.uasset" 763
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 764
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 765
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 766
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 767
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/P_Sparks.uasset" 768
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 769
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 770
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 771
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 772
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 773
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 774
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 775
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 776
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 777
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 778
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 779
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 780
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 781
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 782
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 783
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 784
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 785
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 786
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 787
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 788
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 789
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 790
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 791
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 792
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 793
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 794
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 795
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 796
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 797
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 798
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 799
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 800
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 801
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 802
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 803
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 804
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 805
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 806
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 807
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 808
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 809
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 810
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 811
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 812
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 813
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 814
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 815
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 816
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 817
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 818
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 819
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 820
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 821
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 822
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 823
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 824
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 825
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 826
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 827
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 828
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 829
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 830
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 831
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 832
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 833
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 834
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 835
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 836
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 837
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 838
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 839
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 840
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 841
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 842
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 843
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 844
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 845
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 846
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 847
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 848
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 849
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 850
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 851
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 852
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 853
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 854
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 855
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 856
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 857
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 858
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 859
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 860
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 861
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 862
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 863
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 864
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 865
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Water_M.uasset" 866
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 867
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 868
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 869
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 870
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 871
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 872
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 873
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 874
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 875
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 876
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 877
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 878
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 879
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 880
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 881
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 882
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 883
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 884
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 885
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 886
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 887
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 888
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 889
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 890
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/MaterialSphere.uasset" 891
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Frame_M.uasset" 892
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Textures/T_Frame_N.uasset" 893
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 894
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 895
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 896
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 897
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 898
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 899
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 900
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 901
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 902
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 903
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/StarterContent/Maps/StarterMap.umap" 904
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 905
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 906
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/Geometry/Meshes/TemplateFloor.uasset" 907
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPerson/Meshes/RampMaterial.uasset" 908
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 909
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 910
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 911
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 912
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 913
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 914
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_Detail_Rocky_N.uasset" 915
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_RockMesh_M.uasset" 916
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_RockMesh_N.uasset" 917
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Props/Materials/M_Rock.uasset" 918
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Props/SM_Rock.uasset" 919
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Maps/LakeWater_Example.umap" 920
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Ocean/Blueprint/BP_OceanWater.uasset" 921
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Maps/OceanWater_Example.umap" 922
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 923
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset" 924
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.uasset" 925
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.uasset" 926
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_MacroVariation.uasset" 927
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_Perlin_Noise_M.uasset" 928
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Textures/T_Rock_Basalt_N.uasset" 929
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Environment/Materials/M_Rock_Basalt.uasset" 930
+"../../../../../../Users/iD Student/Documents/GitHub/iD-Tech-Unreal-Map-Design-69/FinalProject/Content/WaterPlane/Maps/TranslucentWater_Example.umap" 931
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 932
+"../../../Engine/Content/Maps/Entry.umap" 933
